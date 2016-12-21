@@ -1,0 +1,8 @@
+{
+  "name": "test-nodejs",
+  "version": "0.0.1",
+  "engines": {
+    "node": "^7.2",
+    "npm": "^3.10"
+  }
+}

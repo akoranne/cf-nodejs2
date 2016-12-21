@@ -1,0 +1,8 @@
+--- 
+applications: 
+- name: cf-nodejs2
+  memory: 256M 
+  instances: 1
+  command: node server.js
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git
+
